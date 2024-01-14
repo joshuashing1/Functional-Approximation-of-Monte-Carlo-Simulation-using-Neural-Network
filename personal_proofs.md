@@ -16,5 +16,3 @@ The following proofs are excerpts from question banks of 'Monte Carlo Statistica
 
 **Part b.** ![equation](https://latex.codecogs.com/svg.image?%5Ctext%7BShow%20an%20equivalent%20expression%20is%5C;%7D%5Cdelta_%7Bi%7D%5E%7B%5Cpi%7D(y_%7B1%7D,...,y_%7Bn%7D)=%5Cfrac%7B%5Cmathbb%7BE%7D%5E%7B%5Cpi%7D(b_%7Bi%7D%5Cmathbb%7BI%7D_%7B%5B0,1%5D%5E2%7D(b_%7B1%7D,b_%7B2%7D)%7Cy_%7B1%7D,...,y_%7Bn%7D)%7D%7B%5Cmathbb%7BP%7D%5E%7B%5Cpi%7D((b_%7B1%7D,b_%7B2%7D)%5Cin%5B0,1%5D%5E2%7Cy_%7B1%7D,...,y_%7Bn%7D)%7D,%5Ctext%7B%5C:where%20the%20right-hand%20term%20is%20computed%20under%20the%20distribution%5C:%7D)
 ![equation](https://latex.codecogs.com/svg.image?%5Cbinom%7Bb_%7B1%7D%7D%7Bb_%7B2%7D%7D%5Csim%20N_%7B2%7D%5Cleft(%5Cbinom%7B%5Chat%7Bb_%7B1%7D%7D%7D%7B%5Chat%7Bb_%7B2%7D%7D%7D,(X%5E%7Bt%7DX)%5E%7B-1%7D%5Cright),%5Ctext%7B%5C:with%5C:%7D(%5Chat%7Bb_%7B1%7D%7D,%5Chat%7Bb_%7B2%7D%7D)%5Ctext%7B%5C:the%20unconstrained%20least%20square%20estimator%20of%5C:%7D(b_%7B1%7D,b_%7B2%7D)%5Ctext%7B%5C:and%5C:%7D)
-
-/.github/personal_proofs.md
