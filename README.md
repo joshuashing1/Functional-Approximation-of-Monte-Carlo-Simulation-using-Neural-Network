@@ -1,3 +1,3 @@
-## Personal Proofs
+# Personal Proofs
 
-# Hi there!
+## Hi there! There is my 
