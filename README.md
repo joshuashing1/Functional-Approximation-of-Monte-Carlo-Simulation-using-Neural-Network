@@ -9,5 +9,15 @@ The following proofs are excerpts from question banks of 'Monte Carlo Statistica
 A noninformative prior is ![equation](https://latex.codecogs.com/svg.image?%5Cpi%5Cleft(b_%7B1%7D,b_%7B2%7D%5Cright)=%5Cmathbb%7BI%7D_%7B%5B0,1%5D%7D%5Cleft(b_%7B1%7D%5Cright)%5Cmathbb%7BI%7D_%7B%5B0,1%5D%7D%5Cleft(b_%7B2%7D%5Cright)). Show that posterior means are given by ![equation](https://latex.codecogs.com/svg.image?i=1,2),
 ![equation](https://latex.codecogs.com/svg.image?%5Cmathbb%7BE%7D%5E%7B%5Cpi%7D%5Cleft(b_%7Bi%7D%7Cy_%7B1%7D,...,y_%7Bn%7D%5Cright)=%5Cfrac%7B%5Cint_%7B0%7D%5E%7B1%7D%5Cint_%7B0%7D%5E%7B1%7Db_%7Bi%7D%5Cprod_%7Bj=1%7D%5E%7Bn%7D%5Cvarphi%5Cleft(y_%7Bj%7D-b_%7B1%7DX_%7B1j%7D-b_%7B2%7DX_%7B2j%7Ddb_%7B1%7Ddb_%7B2%7D%5Cright)%7D%7B%5Cint_%7B0%7D%5E%7B1%7D%5Cint_%7B0%7D%5E%7B1%7D%5Cprod_%7Bj=1%7D%5E%7Bn%7D%5Cvarphi%5Cleft(y_%7Bj%7D-b_%7B1%7DX_%7B1j%7D-b_%7B2%7DX_%7B2j%7Ddb_%7B1%7Ddb_%7B2%7D%5Cright)%7D,%5Cvarphi) density standard normal.
 
-*Proof* Given ![equation](https://latex.codecogs.com/svg.image?%5Cvarepsilon_%7Bi%7D%5Csim%20N(0,1),y_%7Bj%7D-b_%7B1j%7Dx_%7B1j%7D-b_%7B2j%7Dx_%7B2j%7D%5Csim%20N(0,1).)
-![equation]()
+*Proof.* Given ![equation](https://latex.codecogs.com/svg.image?%5Cvarepsilon_%7Bi%7D%5Csim%20N(0,1),y_%7Bj%7D-b_%7B1j%7Dx_%7B1j%7D-b_%7B2j%7Dx_%7B2j%7D%5Csim%20N(0,1).)
+![equation](https://latex.codecogs.com/svg.image?%5Cmathbb%7BE%5E%7B%5Cpi%7D%7D%5Cleft(b_%7Bi%7D%7Cy_%7B1%7D,...,y_%7Bn%7D%5Cright)=%5Cint%20b_%7Bi%7D%5Cpi(b_%7B1%7D,b_%7B2%7D%7C(x_%7B11%7D,x_%7B21%7D),...,(x_%7B1n%7D,x_%7B2n%7D)db_%7B1%7Ddb_%7B2%7D)
+Since ![equation]()
+![equation]
+![equation]
+![equation]
+![equation]
+![equation]
+![equation]
+![equation]
+![equation]
+![equation]
